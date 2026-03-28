@@ -14,5 +14,3 @@ obj/
 .DS_Store
 Thumbs.db
 
-# Environment
-appsettings.Development.json
